@@ -6,7 +6,7 @@ I am **Mohith Muvvala**, a Computer Science & Engineering graduate from **SRM Un
 
 ## 🌐 Live Portfolio
 
-[Visit My Portfolio](YOUR_VERCEL_URL)
+[Visit My Portfolio](https://mohith-portfolio-three.vercel.app/)
 
 ## 👨‍💻 About Me
 
