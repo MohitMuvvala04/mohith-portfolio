@@ -1,16 +1,109 @@
-# React + Vite
+# Mohith Muvvala — Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+Welcome to my personal portfolio website.
 
-Currently, two official plugins are available:
+I am **Mohith Muvvala**, a Computer Science & Engineering graduate from **SRM University, Andhra Pradesh**, with a Minor in Management. I am interested in **Generative AI, Data Analytics, Software Development, and AI-powered applications**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🌐 Live Portfolio
 
-## React Compiler
+[Visit My Portfolio](YOUR_VERCEL_URL)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 👨‍💻 About Me
 
-## Expanding the Oxlint configuration
+- 🎓 B.Tech in Computer Science & Engineering — SRM University, AP
+- 📊 CGPA: 7.57
+- 📚 Minor in Management
+- 🤖 Interested in Generative AI, LLMs and AI applications
+- 📈 Interested in Data Analytics and Business Intelligence
+- 💻 Experience with Python, SQL, JavaScript, React and FastAPI
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+## 🛠️ Skills
+
+### AI / LLM
+- Generative AI
+- Gemini API
+- RAG
+- Prompt Engineering
+- Machine Learning
+
+### Data Analytics
+- Python
+- SQL
+- Power BI
+- Excel
+- Exploratory Data Analysis
+- Data Visualization
+
+### Development
+- JavaScript
+- React
+- FastAPI
+- REST APIs
+- HTML
+- CSS
+- Git
+
+### Cloud & Tools
+- AWS
+- Docker
+- Streamlit
+- MySQL
+- GitHub
+- Agile
+
+## 🚀 Featured Projects
+
+### 1. Coverage-Guided Automated Test Case Generation Using LLMs
+
+An AI-powered system that uses Large Language Models to automatically generate and improve test cases based on code coverage.
+
+**Technologies:** Python, Gemini API, FastAPI, gcov, LLMs
+
+[View Project](https://github.com/MohitMuvvala04/Coverage-Guided-Automated-Test-Case-Generation-Using-Large-Language-Models)
+
+### 2. Prayan AI — Trip Planner
+
+A full-stack AI travel planner that generates personalized travel recommendations and itineraries based on destination and user preferences.
+
+**Technologies:** React, Node.js, Gemini API, REST APIs
+
+### 3. Customer Churn Analysis
+
+A data analytics project focused on analyzing customer behavior and identifying factors associated with customer churn.
+
+**Technologies:** SQL, Power BI, Data Analysis
+
+## 💼 Experience
+
+### AI & ML Intern — EDUNET Foundation
+**June 2024 – July 2024**
+
+- Built Python-based ETL pipelines for data extraction and validation.
+- Worked with 5,000+ records.
+- Developed Power BI dashboards for data visualization and reporting.
+
+### Data Analyst Intern
+**2026**
+
+- Worked with financial datasets and performed exploratory data analysis.
+- Built data transformation workflows.
+- Identified trends and insights from datasets.
+
+## 🎓 Education
+
+**SRM University, Andhra Pradesh**  
+B.Tech — Computer Science & Engineering  
+2022 – 2026  
+CGPA: 7.57
+
+**Minor in Management**
+
+## 📫 Contact
+
+- LinkedIn: [linkedin.com/in/mohith-muvvala](https://www.linkedin.com/in/mohith-muvvala/)
+- GitHub: [github.com/MohitMuvvala04](https://github.com/MohitMuvvala04)
+- Email: mohithmuvvala471@gmail.com
+
+---
+
+⭐ Thanks for visiting my portfolio!
