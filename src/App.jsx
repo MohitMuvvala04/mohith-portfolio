@@ -18,6 +18,7 @@ function App() {
           <a href="#experience">Experience</a>
           <a href="#education">Education</a>
           <a href="#skills">Skills</a>
+          <a href="#certifications">Certifications</a>
           <a href="#contact">Contact</a>
         </div>
 
@@ -1106,6 +1107,160 @@ function App() {
 
   </div>
 
+
+</section>
+
+
+{/* CERTIFICATIONS */}
+<section id="certifications" className="certifications-section">
+
+  <div className="section-heading">
+    <span className="section-label">CREDENTIALS</span>
+    <h2>Certifications</h2>
+    <p>
+      Professional certifications and credentials that strengthen my
+      expertise across cloud, AI, and management.
+    </p>
+  </div>
+
+  <div className="certifications-grid">
+
+    {/* AWS */}
+    <div className="certificate-card">
+
+      <div className="certificate-top">
+        <div className="certificate-icon aws-icon">
+          AWS
+        </div>
+
+        <span className="certificate-number">01</span>
+      </div>
+
+      <div className="certificate-content">
+
+        <span className="certificate-category">
+          CLOUD COMPUTING
+        </span>
+
+        <h3>
+          AWS Certified Solutions Architect – Associate
+        </h3>
+
+        <p className="certificate-issuer">
+          Amazon Web Services (AWS)
+        </p>
+
+        <div className="certificate-meta">
+          <span>Issued Aug 9, 2026</span>
+          <span>Valid until Aug 9, 2029</span>
+        </div>
+
+        <p className="credential-id">
+          Credential ID: be4ae93ec01b4405bc9d4062bd115c6d
+        </p>
+
+        <a
+          href="https://www.credly.com/badges/846a39f9-c747-421a-9953-f3a6b75bd1f3/public_url"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="certificate-link"
+        >
+          Verify Credential ↗
+        </a>
+
+      </div>
+    </div>
+
+
+    {/* ORACLE */}
+    <div className="certificate-card">
+
+      <div className="certificate-top">
+        <div className="certificate-icon oracle-icon">
+          ORACLE
+        </div>
+
+        <span className="certificate-number">02</span>
+      </div>
+
+      <div className="certificate-content">
+
+        <span className="certificate-category">
+          ARTIFICIAL INTELLIGENCE
+        </span>
+
+        <h3>
+          Oracle Certified Foundations Associate – Agentic AI Certified Foundations Associate
+        </h3>
+
+        <p className="certificate-issuer">
+          Oracle
+        </p>
+
+        <div className="certificate-meta">
+          <span>Issued Aug 2026</span>
+          <span>Valid until Aug 10, 2028</span>
+        </div>
+
+        <a
+          href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=FB62FE9140161ECDCDE8E2D508DB7BBA1CEF714ADBB2F62C30140A36EA2635C1"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="certificate-link"
+        >
+          View Credential ↗
+        </a>
+
+      </div>
+    </div>
+
+
+    {/* NPTEL */}
+    <div className="certificate-card">
+
+      <div className="certificate-top">
+        <div className="certificate-icon nptel-icon">
+          NPTEL
+        </div>
+
+        <span className="certificate-number">03</span>
+      </div>
+
+      <div className="certificate-content">
+
+        <span className="certificate-category">
+          MANAGEMENT
+        </span>
+
+        <h3>
+          Managerial Skills for Interpersonal Dynamics
+        </h3>
+
+        <p className="certificate-issuer">
+          NPTEL
+        </p>
+
+        <div className="certificate-meta">
+          <span>Issued Oct 2025</span>
+        </div>
+
+        <p className="credential-id">
+          Credential ID: NPTEL25MG91S672100948
+        </p>
+
+        <a
+          href="https://nptel.ac.in/noc/E_Certificate/NPTEL25MG91S67210094810652347"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="certificate-link"
+        >
+          View Certificate ↗
+        </a>
+
+      </div>
+    </div>
+
+  </div>
 
 </section>
 
