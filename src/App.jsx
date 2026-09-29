@@ -1114,14 +1114,23 @@ function App() {
 {/* CERTIFICATIONS */}
 <section id="certifications" className="certifications-section">
 
-  <div className="section-heading">
-    <span className="section-label">CREDENTIALS</span>
-    <h2>Certifications</h2>
+  <div className="certifications-heading">
+
+    <span className="certifications-label">
+      CERTIFICATIONS
+    </span>
+
+    <h2>
+      Professional Certifications
+    </h2>
+
     <p>
-      Professional certifications and credentials that strengthen my
-      expertise across cloud, AI, and management.
+      Industry-recognized certifications across cloud computing,
+      artificial intelligence, and management.
     </p>
+
   </div>
+
 
   <div className="certifications-grid">
 
@@ -1129,12 +1138,17 @@ function App() {
     <div className="certificate-card">
 
       <div className="certificate-top">
+
         <div className="certificate-icon aws-icon">
           AWS
         </div>
 
-        <span className="certificate-number">01</span>
+        <span className="certificate-number">
+          01
+        </span>
+
       </div>
+
 
       <div className="certificate-content">
 
@@ -1169,6 +1183,7 @@ function App() {
         </a>
 
       </div>
+
     </div>
 
 
@@ -1176,12 +1191,17 @@ function App() {
     <div className="certificate-card">
 
       <div className="certificate-top">
+
         <div className="certificate-icon oracle-icon">
           ORACLE
         </div>
 
-        <span className="certificate-number">02</span>
+        <span className="certificate-number">
+          02
+        </span>
+
       </div>
+
 
       <div className="certificate-content">
 
@@ -1208,10 +1228,11 @@ function App() {
           rel="noopener noreferrer"
           className="certificate-link"
         >
-          View Credential ↗
+          Verify Credential ↗
         </a>
 
       </div>
+
     </div>
 
 
@@ -1219,12 +1240,17 @@ function App() {
     <div className="certificate-card">
 
       <div className="certificate-top">
+
         <div className="certificate-icon nptel-icon">
           NPTEL
         </div>
 
-        <span className="certificate-number">03</span>
+        <span className="certificate-number">
+          03
+        </span>
+
       </div>
+
 
       <div className="certificate-content">
 
@@ -1254,10 +1280,11 @@ function App() {
           rel="noopener noreferrer"
           className="certificate-link"
         >
-          View Certificate ↗
+          Verify Certificate ↗
         </a>
 
       </div>
+
     </div>
 
   </div>
